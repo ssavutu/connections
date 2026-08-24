@@ -1,0 +1,10 @@
+/target
+/classes
+/checkouts
+.cpcache/
+.lsp/
+.clj-kondo/.cache/
+pom.xml.asc
+*.jar
+.nrepl-port
+.DS_Store
